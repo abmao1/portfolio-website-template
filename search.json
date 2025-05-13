@@ -16,37 +16,9 @@
   {
     "objectID": "strategic-marketing.html",
     "href": "strategic-marketing.html",
-    "title": "Strategic Marketing",
+    "title": "Projects",
     "section": "",
-    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
-    "href": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 1: Strategic Campaign Planning]",
-    "text": "[Project Title 1: Strategic Campaign Planning]\nIn this project, I led the development of a comprehensive marketing campaign for [product, service, or initiative]. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-2-brand-audit-positioning",
-    "href": "strategic-marketing.html#project-title-2-brand-audit-positioning",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 2: Brand Audit & Positioning]",
-    "text": "[Project Title 2: Brand Audit & Positioning]\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
-    "href": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
-    "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time.\n\nBelow is an embedded demonstration of the interactive report:"
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
-    "href": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
-    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
+    "text": "Featured Quarto Projects\nNetflix Pricing Strategy Built an interactive Quarto presentation analyzing consumer price sensitivity in the streaming industry. Applied Van Westendorp and Gabor-Granger techniques to assess willingness to pay and strategic bundling across major platforms.\nSkills Demonstrated:\n\nPricing Analytics: Applied Van Westendorp and Gabor-Granger models to estimate willingness to pay.\nCompetitive Analysis: Benchmarked Netflix pricing against bundled competitors like Disney+ and Hulu.\nInteractive Visualization: Designed an intuitive Quarto interface for dynamic presentation.\nStrategic Recommendations: Proposed actionable pricing and bundling strategies.\n\n\nTitanic Survival Analysis Used Quarto and the {gtsummary} package to explore survival trends on the Titanic. Presented logistic regression and cross-tab analysis to highlight how passenger demographics influenced outcomes.\nSkills Demonstrated:\n\nLogistic Regression: Modeled survival likelihood based on age, class, and gender.\nData Wrangling: Cleaned and transformed historical passenger data.\nStatistical Communication: Used {gtsummary} to clearly convey model results.\nInsight Generation: Interpreted findings to highlight sociocultural implications.\n\n\nBrand Strategy Term Proposal Outlined a strategic marketing plan for a South Korean foodservice brand entering the U.S. Created a Quarto proposal detailing campaign strategy, digital media planning, and Gen Z engagement tactics.\nSkills Demonstrated:\n\nCampaign Planning: Built a full-funnel marketing strategy targeting Gen Z audiences.\nDigital Media Strategy: Recommended influencer, paid social, and content activations.\nCross-Cultural Branding: Adapted messaging for U.S. market without losing brand identity.\nPresentation Design: Structured a professional Quarto pitch deck with clear storytelling.\n\n\nSummary Tables with gtsummaryl Created a Quarto presentation reflecting on the use of {gtsummary} for summarizing and visualizing statistical models. Demonstrated its role in improving data communication within marketing research.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time."
   },
   {
     "objectID": "listings/01-campaign-insights-dashboard.html",
