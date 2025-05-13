@@ -25,21 +25,21 @@
     "href": "listings/01-campaign-insights-dashboard.html",
     "title": "Campaign Insights Dashboard",
     "section": "",
-    "text": "Overview\nThis project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
+    "text": "Overview\nThis dashboard was built to monitor and analyze marketing campaign performance in real time. It tracks essential metrics like click-through rate, conversion rate, and ROI across digital channels.\nUsing R and Tableau, I transformed raw campaign data into interactive visuals that help marketers pinpoint underperforming segments, optimize spend, and communicate results clearly.\n\n\n\n\nLearning Outcomes\n\nVisualized KPIs like CTR, CVR, and CPA\n\nCompared performance across A/B tests and platforms\n\nDelivered insights to inform creative, media, and targeting\n\n\n\n\n\nKey Skills Gained\n\nDashboard development in Tableau\n\nR for data wrangling and summary tables\n\nCampaign performance analysis\n\nExecutive storytelling with visuals"
   },
   {
     "objectID": "listings/04-funnel-attribution-model.html",
     "href": "listings/04-funnel-attribution-model.html",
     "title": "Marketing Funnel Attribution Model",
     "section": "",
-    "text": "Overview\nThis project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.\n\n\n\n\nLearning Outcomes\n\nTrack multi-touch customer journeys.\n\nModel attribution using first-touch, last-touch, and linear approaches.\n\nVisualize funnel performance.\n\nQuantify channel impact on conversion.\n\nGuide future campaign investment decisions.\n\n\n\n\nKey Skills Gained\n\nAttribution modeling\n\nFunnel analysis\n\nData visualization\n\nCampaign performance analysis\n\nR or Python analytics pipelines"
+    "text": "Overview\nThis project built an attribution model to assign value to touchpoints across a multi-channel conversion funnel. By comparing first-touch, last-touch, and linear models, I quantified each channel’s role in driving conversions.\nThese insights were used to reallocate budget toward high-impact channels, resulting in improved ROI and funnel efficiency.\n\n\n\n\nLearning Outcomes\n\nTracked touchpoints across the funnel (impression → conversion)\n\nCompared attribution models for fair credit assignment\n\nVisualized assisted conversions and drop-offs\n\nIdentified underperforming mid-funnel channels\n\n\n\n\n\nKey Skills Gained\n\nFunnel mapping and attribution modeling\n\nR: dplyr, ggplot2, shiny\n\nConversion rate optimization\n\nBudget reallocation analysis"
   },
   {
     "objectID": "listings/02-seo-benchmarking-analysis.html",
     "href": "listings/02-seo-benchmarking-analysis.html",
-    "title": "SEO Benchmarking Analysis",
+    "title": "SEO",
     "section": "",
-    "text": "Overview\nThis project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.\n\n\n\n\nLearning Outcomes\n\nIdentify keyword opportunities through competitive research.\n\nTrack and compare domain authority and page rankings.\n\nRecommend on-page SEO improvements.\n\nDesign a data-driven SEO content strategy.\n\nVisualize competitor positioning.\n\n\n\n\nKey Skills Gained\n\nKeyword research\n\nWeb scraping & data cleaning\n\nSEO analysis tools\n\nData storytelling\n\nStrategy development"
+    "text": "Overview\nIn this project, I conducted a competitive SEO audit comparing keyword visibility, technical performance, and backlink authority across top industry players.\nUsing tools like Ahrefs and Screaming Frog, I identified keyword gaps and recommended a content strategy that increased visibility in SERPs and improved on-page performance metrics.\n\n\n\n\nLearning Outcomes\n\nIdentified target keyword opportunities based on domain rank gaps\n\nBenchmarked backlink counts and authority vs competitors\n\nProposed data-driven improvements to meta structure and internal linking\n\n\n\n\n\nKey Skills Gained\n\nWeb scraping & SERP analysis\n\nSEO toolsets (e.g., Ahrefs, SEMrush)\n\nCompetitive benchmarking\n\nData-informed content strategy\n\n\n\n\n\n:::"
   },
   {
     "objectID": "resume.html",
@@ -53,7 +53,7 @@
     "href": "listings/03-customer-segmentation-clustering.html",
     "title": "Customer Segmentation Using Clustering",
     "section": "",
-    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
+    "text": "Overview\nUsing clustering techniques like K-means, I segmented customer data based on behavioral and demographic features to uncover actionable personas.\nThis segmentation informed marketing strategies for tailored messaging, audience prioritization, and channel optimization—boosting campaign efficiency and reducing CAC.\n\n\n\n\nLearning Outcomes\n\nCleaned and scaled behavioral data\n\nApplied clustering algorithms to reveal natural audience groupings\n\nMapped segments to actionable personas\n\nAligned audience insights with campaign strategies\n\n\n\n\n\nKey Skills Gained\n\nK-means & hierarchical clustering\n\nR: dplyr, factoextra, cluster\n\nPersona development\n\nStrategic segmentation planning"
   },
   {
     "objectID": "listings/05-social-media-engagement.html",
